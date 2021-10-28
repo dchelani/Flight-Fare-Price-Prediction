@@ -1,2 +1,2 @@
-# ML-Projects
-This repository includes ML projects in python.
+# ML-Project
+This repository includes Python machine learning project.
